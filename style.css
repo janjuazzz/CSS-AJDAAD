@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    border: 10px solid wheat;
+    text-align: center;
+}
+
+
+.silver {
+    text-transform: uppercase;
+    color: silver;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+    margin-left: 11px;
+    text-align: center;
+    
+}
+
+.Gold {
+    text-transform: uppercase;
+    color: gold;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 3rem;
+    margin-left: 11px;
+    text-align: center;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 0%;
+    color: white;
+    text-align: center;
+        }
+.ajdaad-img {
+    width: 100%;
+    border: 10px solid white;
+    margin-top: 50px;
+    
+    text-align: center;
+}
+p {
+    margin-left: 11px;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-weight: 900;
+}
+footer {
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Cinzel', serif;
+    
+}
